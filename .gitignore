@@ -205,3 +205,7 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+roc_curve.png
+model_results.png
+metrics.txt
+churn_pipeline.skops
